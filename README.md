@@ -19,7 +19,7 @@ https://api.stat.gov.pl/Home/BdlApi
 Example images:<br>
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/79875767/125617725-f533a9fa-dec4-4561-a9ba-f2f88dbc9411.png" />
+  <img src="https://user-images.githubusercontent.com/79875767/125617725-f533a9fa-dec4-4561-a9ba-f2f88dbc9411.png" width=800/>
   <img src="https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png" />
 </p>
 <br><br>
