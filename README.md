@@ -12,4 +12,4 @@ https://api.stat.gov.pl/Home/BdlApi
 
 
 ---
-
+![Alt text](wydatki_mapa.png?raw=true "Title")
