@@ -13,4 +13,4 @@ https://api.stat.gov.pl/Home/BdlApi
 
 ---
 
-<img src="https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png" width="500" height="500">
