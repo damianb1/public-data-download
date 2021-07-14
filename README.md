@@ -12,8 +12,5 @@ https://api.stat.gov.pl/Home/BdlApi
 
 
 ---
-![Alt text](wydatki_mapa.png)
-<img src="wydatki_mapa.png" alt="drawing" width="200" height-"200/>
 
-![test image size](wydatki_mapa.png|width=100px)
-![test image size](wydatki_mapa.png){:height="100px" width="100px"}
+<img src="https://user-images.githubusercontent.com/79875767/125616339-e9924daf-479b-4646-8426-6bc96dd0f286.png" width="100" height="100">
