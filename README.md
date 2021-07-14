@@ -16,7 +16,7 @@ https://api.stat.gov.pl/Home/BdlApi
 ---
 
 <br><br>
-Example images:<br>
+Example images:<br><br>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/79875767/125617725-f533a9fa-dec4-4561-a9ba-f2f88dbc9411.png" width=800/>
