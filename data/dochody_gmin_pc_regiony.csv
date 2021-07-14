@@ -1,0 +1,154 @@
+region,rok,wartość
+małopolskie,2011,2930.37
+małopolskie,2012,2964.0
+małopolskie,2013,2981.02
+małopolskie,2014,3148.05
+małopolskie,2015,3296.87
+małopolskie,2016,3849.41
+małopolskie,2017,4177.49
+małopolskie,2018,4551.76
+małopolskie,2019,5141.34
+śląskie,2011,2838.55
+śląskie,2012,2878.1
+śląskie,2013,2968.73
+śląskie,2014,3183.29
+śląskie,2015,3276.51
+śląskie,2016,3804.09
+śląskie,2017,4081.15
+śląskie,2018,4478.78
+śląskie,2019,5051.89
+lubuskie,2011,2874.85
+lubuskie,2012,2967.16
+lubuskie,2013,3154.01
+lubuskie,2014,3322.03
+lubuskie,2015,3441.82
+lubuskie,2016,3880.48
+lubuskie,2017,4307.51
+lubuskie,2018,4604.94
+lubuskie,2019,5148.76
+wielkopolskie,2011,2819.96
+wielkopolskie,2012,2949.38
+wielkopolskie,2013,3026.23
+wielkopolskie,2014,3164.62
+wielkopolskie,2015,3306.94
+wielkopolskie,2016,3982.02
+wielkopolskie,2017,4375.95
+wielkopolskie,2018,4693.83
+wielkopolskie,2019,5270.84
+zachodniopomorskie,2011,3178.79
+zachodniopomorskie,2012,3390.53
+zachodniopomorskie,2013,3496.29
+zachodniopomorskie,2014,3619.37
+zachodniopomorskie,2015,3743.9
+zachodniopomorskie,2016,4236.11
+zachodniopomorskie,2017,4642.49
+zachodniopomorskie,2018,4923.6
+zachodniopomorskie,2019,5319.85
+dolnośląskie,2011,3015.05
+dolnośląskie,2012,3162.36
+dolnośląskie,2013,3276.85
+dolnośląskie,2014,3467.88
+dolnośląskie,2015,3586.99
+dolnośląskie,2016,3998.71
+dolnośląskie,2017,4404.65
+dolnośląskie,2018,4904.58
+dolnośląskie,2019,5366.53
+opolskie,2011,2705.81
+opolskie,2012,2825.28
+opolskie,2013,2856.45
+opolskie,2014,3009.22
+opolskie,2015,3100.54
+opolskie,2016,3512.75
+opolskie,2017,3778.28
+opolskie,2018,4210.56
+opolskie,2019,4715.5
+kujawsko-pomorskie,2011,2908.43
+kujawsko-pomorskie,2012,3067.05
+kujawsko-pomorskie,2013,3149.94
+kujawsko-pomorskie,2014,3359.96
+kujawsko-pomorskie,2015,3542.79
+kujawsko-pomorskie,2016,4070.73
+kujawsko-pomorskie,2017,4450.11
+kujawsko-pomorskie,2018,4722.02
+kujawsko-pomorskie,2019,5255.92
+pomorskie,2011,3177.29
+pomorskie,2012,3234.87
+pomorskie,2013,3346.05
+pomorskie,2014,3535.07
+pomorskie,2015,3692.6
+pomorskie,2016,4367.58
+pomorskie,2017,4857.96
+pomorskie,2018,5229.1
+pomorskie,2019,5703.14
+warmińsko-mazurskie,2011,3076.05
+warmińsko-mazurskie,2012,3165.88
+warmińsko-mazurskie,2013,3224.85
+warmińsko-mazurskie,2014,3375.03
+warmińsko-mazurskie,2015,3432.17
+warmińsko-mazurskie,2016,4026.53
+warmińsko-mazurskie,2017,4368.27
+warmińsko-mazurskie,2018,4725.3
+warmińsko-mazurskie,2019,5189.92
+łódzkie,2011,2885.55
+łódzkie,2012,2993.25
+łódzkie,2013,3074.58
+łódzkie,2014,3275.2
+łódzkie,2015,3393.93
+łódzkie,2016,3923.22
+łódzkie,2017,4283.09
+łódzkie,2018,4643.57
+łódzkie,2019,5219.44
+świętokrzyskie,2011,2879.43
+świętokrzyskie,2012,2911.5
+świętokrzyskie,2013,2999.17
+świętokrzyskie,2014,3126.42
+świętokrzyskie,2015,3199.13
+świętokrzyskie,2016,3692.62
+świętokrzyskie,2017,3955.34
+świętokrzyskie,2018,4340.88
+świętokrzyskie,2019,4948.29
+lubelskie,2011,2813.22
+lubelskie,2012,2924.02
+lubelskie,2013,2947.98
+lubelskie,2014,3093.92
+lubelskie,2015,3189.38
+lubelskie,2016,3667.63
+lubelskie,2017,3999.83
+lubelskie,2018,4468.65
+lubelskie,2019,4963.84
+podkarpackie,2011,2860.39
+podkarpackie,2012,2891.29
+podkarpackie,2013,2940.58
+podkarpackie,2014,3115.11
+podkarpackie,2015,3140.36
+podkarpackie,2016,3706.54
+podkarpackie,2017,4148.84
+podkarpackie,2018,4652.64
+podkarpackie,2019,5126.55
+podlaskie,2011,2829.5
+podlaskie,2012,2871.78
+podlaskie,2013,3031.12
+podlaskie,2014,3209.03
+podlaskie,2015,3369.0
+podlaskie,2016,3770.54
+podlaskie,2017,4097.97
+podlaskie,2018,4564.69
+podlaskie,2019,5180.94
+warszawski stołeczny,2011,3111.21
+warszawski stołeczny,2012,3261.88
+warszawski stołeczny,2013,3421.61
+warszawski stołeczny,2014,3667.71
+warszawski stołeczny,2015,3861.93
+warszawski stołeczny,2016,4564.36
+warszawski stołeczny,2017,4939.35
+warszawski stołeczny,2018,5493.04
+warszawski stołeczny,2019,6241.63
+mazowiecki regionalny,2011,2910.43
+mazowiecki regionalny,2012,3007.48
+mazowiecki regionalny,2013,3026.27
+mazowiecki regionalny,2014,3184.15
+mazowiecki regionalny,2015,3361.59
+mazowiecki regionalny,2016,3951.87
+mazowiecki regionalny,2017,4271.13
+mazowiecki regionalny,2018,4639.46
+mazowiecki regionalny,2019,5127.43
