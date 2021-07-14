@@ -13,3 +13,4 @@ https://api.stat.gov.pl/Home/BdlApi
 
 ---
 ![Alt text](wydatki_mapa.png?raw=true "Title")
+<img src="wydatki_mapa.png" alt="drawing" width="200" height-"200/>
