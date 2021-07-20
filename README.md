@@ -16,7 +16,7 @@ https://api.stat.gov.pl/Home/BdlApi
 ---
 
 <br>
-Three notebooks show slightly different methods for fetching data from API, fourth notebook contains charts for example data.
+Three notebooks show slightly different methods for fetching data from API, fourth notebook contains example charts.
 
 <br><br>
 Example images:<br><br>
